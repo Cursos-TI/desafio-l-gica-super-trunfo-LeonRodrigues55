@@ -24,7 +24,7 @@ Para compilar e executar este programa, você precisa ter um compilador C instal
 
 ### Menu de Batalha
 
-Você deve escolher um dos seguintes atributos para a comparação:
+Você deve escolher DOIS atributos para a comparação:
 
 1.  População
 2.  Área
